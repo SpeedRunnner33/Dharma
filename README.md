@@ -13,7 +13,7 @@ Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY
 
 Brave is needed to work. it blocks Edge & Firefox because there are ways to bypass the filter through them.
 
-1.Browser - it blocks brave (it should be your only browser) during night, from 22:00 -> 06:00 every day , because most temptations arise at night. when you want to sleep early. 
+.Browser - it blocks brave (it should be your only browser) during night, from 22:00 -> 06:00 every day , because most temptations arise at night. when you want to sleep early. 
 But you can play games, watch offline content, read downloaded books.. or even access certain websites though [this app](https://github.com/nativefier/nativefier) .
 
 To install it, click 'code' -> 'Download ZIP', unzip it, go to the folder and hold SHIFT & press right click on the background -> '```Open PowerShell here```' and run the mentioned command ->``` npm install -g nativefier```
@@ -23,5 +23,21 @@ Now even if your browser is banned, you can access these websites outside of it.
 the block Keywords blocks most keywords that are used access porn, & reddit & twitter block the main site except some accounts or subreddits, click on any of them and 'whitelist' and add your own.
 the 🔒 is meant to block all the internet except certain websites, if need be, you can use it. or you can 'nativefier' them with the app mentioned above.
 
+3. Download my [host file](https://odysee.com/@NewLife:0ae/HOSTS_____:4) , click the 3 dots & download, and put it in the C:\Windows\System32\drivers\etc\ , You can further costumize it as you please.
+
+4. Download this ->  https://cleanbrowsing.org/help/docs/setup-content-filtering-on-windows-with-cleanbrowsing/ & add select 'Free adult filter', then go to settings & add a random password (like aaaajdd923321 cxcxewk#(*#0!@*(#*@!(#!()io321iIODAIDADDA), then forget it. This will only block 99.99% of porn sites so you don't need to undo it.
+
+Download other github projects that you may use (and torrent magnets and browser extensions) , then block github too just to be sure. 
+
+5. Block the Cold turkey blocks for 1-3 months. after you tested a bit and are sure that it works well. - otherwise open an issue & I will try to help.
+
+
+Go at your router and change the DNS to the clean browsing one, [so](https://es.wikipedia.org/wiki/CleanBrowsing) 
+
+DNS1:	```185.228.168.10```
+
+DNS2:  ```185.228.169.11```
+
+![image](https://github.com/user-attachments/assets/6f365144-57d0-44b5-98e4-afcfe344bc40)
 
 
