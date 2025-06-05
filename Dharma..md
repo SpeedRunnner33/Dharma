@@ -1,4 +1,4 @@
-Block porn -> https://github.com/SpeedRunnner33/Dharma/blob/main/README.md
+📌Block porn -> https://github.com/SpeedRunnner33/Dharma/blob/main/README.md
 
 "The secret of change is to focus all of your energy, not on fighting the old, but on building the new. "
 
