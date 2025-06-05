@@ -25,7 +25,7 @@ as explained [here](https://odysee.com/@NewLife:0ae/meditation._pranayama:f).
 
 7. [Salt water treatment, should be done with a mantra, see if you yawn](https://www.youtube.com/watch?v=PLBujeyuWb4) .
 
-8. [Exercise 4-5 days. up to 1 hour. ](https://soundcloud.com/dasaa-dsawq/sets/dasewagwd6jy?si=56bd32ffe632472fa66dc7c79208f6ea) .
+8. [Exercise 4-5 days/week up to 1 hour. ](https://soundcloud.com/dasaa-dsawq/sets/dasewagwd6jy?si=56bd32ffe632472fa66dc7c79208f6ea) . Also take long walks while saying a mantra or listening to an audiobook/podcast/etc.
 
 9. Say a chant of a Holy mantra (japa) like Om Mani Padme Hum [ no it's not for hindus or buddhists only. These are universal, even Jesus used them [Ephphatha , Talitha koum].
 Try with a lot of faith and see. explained [HERE](https://glorian.org/learn/courses-and-lectures/gnosis-of-buddha-dharma/the-mantra-of-christ-om-manipadme-hum).
