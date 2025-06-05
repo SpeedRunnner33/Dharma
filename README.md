@@ -12,7 +12,7 @@ Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY
 
 ![image](https://github.com/user-attachments/assets/a8822e27-7f76-4e50-9398-7b35282ebcb5)
 
-Brave is needed to work. it blocks Edge & Firefox because there are ways to bypass the filter through them.
+Brave is needed to work. My presets blocks Edge & Firefox because there are ways to bypass the filter through them.
 
 .Browser - it blocks brave (it should be your only browser) during night, from 22:00 -> 06:00 every day , because most temptations arise at night. when you want to sleep early. 
 But you can play games, watch offline content, read downloaded books.. or even access certain websites though [this app](https://github.com/nativefier/nativefier) .
