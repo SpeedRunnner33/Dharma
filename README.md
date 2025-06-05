@@ -1,5 +1,6 @@
-Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY).
+[Change yourself and your routine, which is the ladder to your higher self](https://github.com/SpeedRunnner33/Dharma/blob/main/Dharma..md). 
 
+Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY).
 
 
 #1. WINDOWS
