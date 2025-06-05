@@ -5,7 +5,7 @@ Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY
 
 #1. WINDOWS
 
-1.Install cold turkey 4.5 and buy it if you can afford, or activate it with [this](https://github.com/coderhisham/ColdTurkeyBlockerPro-Activator-FREE).
+1.Install cold turkey [I prefer 4.5] and buy it if you can afford, or activate it with [this](https://github.com/coderhisham/ColdTurkeyBlockerPro-Activator-FREE).
 
 2. Use [my settings](https://odysee.com/@NewLife:0ae/Block-Lists-from-DESKTOP-BRHKA15:5)
 
