@@ -1,3 +1,5 @@
+Block porn -> https://github.com/SpeedRunnner33/Dharma/blob/main/README.md
+
 "The secret of change is to focus all of your energy, not on fighting the old, but on building the new. "
 
 A new routine is needed. Routine is the basis. There is no point to block porn and then to want to watch it, because you will. 
