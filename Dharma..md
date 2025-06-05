@@ -2,11 +2,17 @@
 
 "The secret of change is to focus all of your energy, not on fighting the old, but on building the new. "
 
+
+
 A new routine is needed. Routine is the basis. There is no point to block porn and then to want to watch it, because you will. 
 The only way to change is to become a non-user, now. Who are you? Choose, say it, feel it. 
 
 Change your perception of yourself, instead of 'I am an addict' -> ' I am a free man'. and put feeling🧙‍♀️ into it. Feel it. Always, especially when you go to sleep.
 See yourself in the future, as if you already reached 6 months of freedom, and go to sleep with this powerful taste of freedom. always. You're free already. It's easy. Try it. For the next 3 weeks, go to sleep feeling another 'I Am' - visualise that you already reached freedom and feel it over and over as a loop, make it feel & look like reality. This works because our thoughts and feelings contribute to the reality that we manifest. Combine it with the rest here and you're already there 😊!
+
+Mark 2:22 states: "And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins."
+
+The wineskin is who you are. & You become what you do. so change yourself (I am free, I am pure, I am stoic + feeling it) and pour the wine of the daily routine. 
 
 **DAILY** Routine. Put these on a daily routine, on an app like Taskito, **DAILY** **DAILY** **DAILY** **DAILY** **DAILY** **DAILY** **DAILY**...and stick with them for the next 3 years.
 
