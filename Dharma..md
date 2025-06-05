@@ -21,7 +21,7 @@ as explained [here](https://odysee.com/@NewLife:0ae/meditation._pranayama:f).
 
 5. Also [try this prayer, daily, with faith.](https://glorian.org/learn/video/awaken-your-heart-strengthen-your-mind-with-the-pater-noster-our-father-the-prayer-of-the-lord) , or any other prayer, and put faith in it. It scales with faith & attention. Don't think at impurities while you're summoning Divinity to assist you.
 
-6. Burn incense, like sage, while you pray for divinity to destroy the black energy/thoughts on you.
+6. Burn incense, like sage, while you pray for divinity to destroy the black energy/thoughts in you.
 
 7. [Salt water treatment, should be done with a mantra, see if you yawn](https://www.youtube.com/watch?v=PLBujeyuWb4) .
 
