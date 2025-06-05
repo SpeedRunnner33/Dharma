@@ -16,7 +16,7 @@ See yourself in the future, as if you already reached 6 months of freedom, and g
 
 3. Move your PC/Laptop elsewhere. Maybe buy a console instead. 
 
-4 Do [Ham-sa Pranayama](https://chicagognosis.podbean.com/e/guided-practices-ham-sah-pranayama/) 15 min in the morning, 15 min before sleep, or during evening.
+4 Do [Ham-sa Pranayama](https://chicagognosis.podbean.com/e/guided-practices-ham-sah-pranayama/) 15 min in the morning, 15 min before sleep, AND 15m during evening.
 as explained [here](https://odysee.com/@NewLife:0ae/meditation._pranayama:f).
 
 5. Also [try this prayer, daily, with faith.](https://glorian.org/learn/video/awaken-your-heart-strengthen-your-mind-with-the-pater-noster-our-father-the-prayer-of-the-lord) .
