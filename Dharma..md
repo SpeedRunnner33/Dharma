@@ -6,7 +6,7 @@ A new routine is needed. Routine is the basis. There is no point to block porn a
 The only way to change is to become a non-user, now. Who are you? Choose, say it, feel it. 
 
 Change your perception of yourself, instead of 'I am an addict' -> ' I am a free man'. and put feeling🧙‍♀️ into it. Feel it. Always, especially when you go to sleep.
-See yourself in the future, as if you already reached 6 months of freedom, and go to sleep with this powerful taste of freedom. always. You're free already. Its easy.
+See yourself in the future, as if you already reached 6 months of freedom, and go to sleep with this powerful taste of freedom. always. You're free already. It's easy. Try it. For the next 3 weeks, go to sleep feeling another 'I Am' - visualise that you already reached freedom and feel it over and over as a loop, make it feel & look like reality. This works because our thoughts and feelings contribute to the reality that we manifest. Combine it with the rest here and you're already there 😊!
 
 **DAILY** Routine. Put these on a daily routine, on an app like Taskito, and stick with them for the next 7 years.
 
