@@ -19,7 +19,7 @@ See yourself in the future, as if you already reached 6 months of freedom, and g
 4 Do [Ham-sa Pranayama](https://chicagognosis.podbean.com/e/guided-practices-ham-sah-pranayama/) 15 min in the morning, 15 min before sleep, AND 15m during evening.
 as explained [here](https://odysee.com/@NewLife:0ae/meditation._pranayama:f).
 
-5. Also [try this prayer, daily, with faith.](https://glorian.org/learn/video/awaken-your-heart-strengthen-your-mind-with-the-pater-noster-our-father-the-prayer-of-the-lord) .
+5. Also [try this prayer, daily, with faith.](https://glorian.org/learn/video/awaken-your-heart-strengthen-your-mind-with-the-pater-noster-our-father-the-prayer-of-the-lord) , or any other prayer, and put faith in it. It scales with faith & attention. Don't think at impurities while you're summoning Divinity to assist you.
 
 6. Burn incense, like sage, while you pray for divinity to destroy the black energy/thoughts on you.
 
