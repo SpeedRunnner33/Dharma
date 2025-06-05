@@ -32,7 +32,6 @@ Download other github projects that you may use (and torrent magnets and browser
 
 5. Block the Cold turkey blocks for 1-3 months. after you tested a bit and are sure that it works well. - otherwise open an issue & I will try to help.
 
-
 Go at your router and change the DNS to the clean browsing one, [so](https://es.wikipedia.org/wiki/CleanBrowsing) 
 
 DNS1:	```185.228.168.10```
@@ -43,9 +42,9 @@ DNS2:  ```185.228.169.11```
 
 ============================================================================================================================================================================
 
-How to block Porn on android.
+How to block Porn on android. Install Firefox, there are ways to bypass it with other browsers. 
 
-Install [NoPox 0.53](https://odysee.com/@NewLife:0ae/NoPox:a) With the following settings:
+Install [NoPox 0.53](https://odysee.com/@NewLife:0ae/NoPox:a) With the following settings, feel free to modify/add your own:
 
 ![image](https://github.com/user-attachments/assets/33cb998a-54ec-48c1-912f-6199a5c5d4be)
  you can set the time delay to more than 24h, maybe to 72h. Some temptations last more than 1 day. But do this only after you configured it & installed the apps that you need.
