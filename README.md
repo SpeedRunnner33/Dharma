@@ -14,14 +14,14 @@ Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY
 
 Brave is needed to work. My presets blocks Edge & Firefox because there are ways to bypass the filter through them.
 
-.Browser - it blocks brave (it should be your only browser) during night, from 22:00 -> 06:00 every day , because most temptations arise at night. when you want to sleep early. 
+.>Browser - it blocks brave (it should be your only browser) during night, from 22:00 -> 06:00 every day , because most temptations arise at night. when you want to sleep early. 
 But you can play games, watch offline content, read downloaded books.. or even access certain websites though [this app](https://github.com/nativefier/nativefier) .
 
 To install it, click 'code' -> 'Download ZIP', unzip it, go to the folder and hold SHIFT & press right click on the background -> '```Open PowerShell here```' and run the mentioned command ->``` npm install -g nativefier```
 Install the dependencies and that's it, you can install some websites and use them, like www.cineby.app or glorian.org or [more here](https://odysee.com/@Soren:71/%F0%9F%94%B0Megathread_with_Resources%F0%9F%94%B0:1) / more [here](https://fmhy.xyz/videopiracyguide#anime-streaming), the command would be ```nativefier 'web.whatsapp.com'``` ;
 Now even if your browser is banned, you can access these websites outside of it.
 
-the block Keywords blocks most keywords that are used access porn, & reddit & twitter block the main site except some accounts or subreddits, click on any of them and 'whitelist' and add your own.
+the block ``Keywords`` blocks most keywords that are used access porn, & reddit & twitter block the main site except some accounts or subreddits, click on any of them and 'whitelist' and add your own.
 the 🔒 is meant to block all the internet except certain websites, if need be, you can use it. or you can 'nativefier' them with the app mentioned above.
 
 3. Download my [host file](https://odysee.com/@NewLife:0ae/HOSTS_____:4) , click the 3 dots & download, and put it in the C:\Windows\System32\drivers\etc\ , You can further costumize it as you please.
@@ -42,7 +42,7 @@ DNS2:  ```185.228.169.11```
 
 ============================================================================================================================================================================
 
-How to block Porn on android. Install Firefox, there are ways to bypass it with other browsers. 
+How to block Porn on android. Install Firefox, there are ways to bypass it with other browsers. Install your extensions, then block the extension page too with the filter.
 
 Install [NoPox 0.53](https://odysee.com/@NewLife:0ae/NoPox:a) With the following settings, feel free to modify/add your own:
 
