@@ -7,7 +7,7 @@ Guide to block all the pornography on  your devices. (ANDROID & WINDOWS/MAC ONLY
 
 1.Install cold turkey [I prefer 4.5] and buy it if you can afford, or activate it with [this](https://github.com/coderhisham/ColdTurkeyBlockerPro-Activator-FREE).
 
-2. Use [my settings](https://odysee.com/@NewLife:0ae/Block-Lists-from-DESKTOP-BRHKA15:5)
+2. Use [my settings](https://odysee.com/@NewLife:0ae/Block-Lists-from-:2)
 
 
 ![image](https://github.com/user-attachments/assets/a8822e27-7f76-4e50-9398-7b35282ebcb5)
@@ -23,6 +23,10 @@ Now even if your browser is banned, you can access these websites outside of it.
 
 the block ``Keywords`` blocks most keywords that are used access porn, & reddit & twitter block the main site except some accounts or subreddits, click on any of them and 'whitelist' and add your own.
 the 🔒 is meant to block all the internet except certain websites, if need be, you can use it. or you can 'nativefier' them with the app mentioned above.
+
+💥download the 'Stop14H.exe' and put it in the taskbar as the first option/place. press Windows key and 1 (since it's first) and it will turn on the 'stop' block for 14 hours, that will block Brave.
+In case of temptations just do this and leave, go for a long walk to calm down, then do pranayama or meditation or chant something and get busy.
+
 
 3. Download my [host file](https://odysee.com/@NewLife:0ae/HOSTS_____:4) , click the 3 dots & download, and put it in the C:\Windows\System32\drivers\etc\ , You can further costumize it as you please.
 
