@@ -24,7 +24,12 @@ Now even if your browser is banned, you can access these websites outside of it.
 the block ``Keywords`` blocks most keywords that are used access porn, & reddit & twitter block the main site except some accounts or subreddits, click on any of them and 'whitelist' and add your own.
 the 🔒 is meant to block all the internet except certain websites, if need be, you can use it. or you can 'nativefier' them with the app mentioned above.
 
-💥download the 'Stop14H.exe' and put it in the taskbar as the first option/place. press Windows key and 1 (since it's first) and it will turn on the 'stop' block for 14 hours, that will block Brave.
+💥Make a .bat file with this, but for your c: path. then use an app to convert the bat file to an .exe file.
+
+![image](https://github.com/user-attachments/assets/051bdbad-89fb-446d-a663-bc125c9c12e3)
+
+
+and put it in the taskbar as the first option/place. press Windows key and 1 (since it's first) and it will turn on the 'stop' block for 10 hours (600 mins), that will block Brave.
 In case of temptations just do this and leave, go for a long walk to calm down, then do pranayama or meditation or chant something and get busy.
 
 
